@@ -5,7 +5,7 @@
 | **Laravel**  |  **wordpress-auth-driver-laravel** |
 |---|---|
 | 5.2 to 5.5    | ^1.0  |
-| 5.6 to 8.x  | ^2.0  |
+| 5.6 to 9.x  | ^2.0  |
 
 ## Installation
 
